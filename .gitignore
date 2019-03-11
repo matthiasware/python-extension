@@ -6,4 +6,5 @@
 !*.h
 !*.md
 !*.py
+!CMakeLists.txt
 build/*
